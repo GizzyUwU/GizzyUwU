@@ -3,12 +3,12 @@
 
 I'm MrCraftyDude - MCRaspRBX - RaspberryRBX.
 
-Working On - Bot [PowerMatter](https://github.com/MCRaspRBX/PowerMatter)
+Working On - My Discord Bot [PowerMatter](https://github.com/MCRaspRBX/PowerMatter).
 
-What I Code In - NodeJS HTML And Python
+What I Code In - NodeJS, HTML And Python.
 
-Pronouns - He/Him
+Pronouns - He/Him.
 
-Gender - Male
+Gender - Male.
 
-How To Reach Me - Youtube: MCRaspRBX Discord: MrCraftyDude#9446 Email: officalraspberryrbx@buisness.ml
+How To Reach Me - Youtube: MCRaspRBX Discord: MrCraftyDude#9446 Email: officalraspberryrbx@buisness.ml.
