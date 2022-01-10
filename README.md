@@ -11,4 +11,4 @@ Pronouns - He/Him.
 
 Gender - Male.
 
-How To Reach Me - Youtube: MCRaspRBX Discord: MrCraftyDude#9446 Email: officalraspberryrbx@buisness.ml.
+How To Reach Me - Youtube: MCRaspRBX Discord: TheUltimateMC#9446 Email: officalraspberryrbx@buisness.ml.
