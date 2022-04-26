@@ -1,7 +1,7 @@
 
 ### Hi There :) 
 
-I'm MrCraftyDude - MCRaspRBX - RaspberryRBX.
+I'm NeroGizmo
 
 Working On - My Discord Bot [PowerMatter](https://github.com/MCRaspRBX/PowerMatter).
 
