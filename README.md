@@ -13,6 +13,4 @@ Pronouns - He/Him.
 
 Gender - Male.
 
-Sexuality: Unknown.
-
 How To Reach Me - Youtube: NeroPiTech Discord: NeroGizmo#9446 And Nero#6805 Email: officalraspberryrbx@gmail.com.
