@@ -8,4 +8,4 @@ Since then, I've been learning to program and I now have my own home server wher
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <h1 align="center">Project's</h1>
-<p align="center">I'm currently working on my discord bot Narlin and my blog.</p>
+<p align="center">Narlin, Gizzy's Den, FreeCodeCamp Course</p>
