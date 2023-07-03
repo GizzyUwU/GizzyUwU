@@ -8,4 +8,4 @@ Since then, I've been learning to program and I now have my own home server wher
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <h1 align="center">Project's</h1>
-<p align="center">My biggest project at the moment is my portfolio called gizzy's den what I have been working on for almost over a year now but I do got other project's like my discord bot Narlin</p>
+<p align="center">My biggest project at the moment is my portfolio called gizzy's den what I have been working on for almost over a year now but I do got other project's like my discord bot Narlin.</p>
