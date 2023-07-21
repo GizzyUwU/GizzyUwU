@@ -15,3 +15,5 @@ Since then, I've been learning to program and I now have my own home server wher
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <h1>Project's</h1>
 <p>My biggest project at the moment is my portfolio called Gizzy's Den what I have been working on for almost over a year now but I do got other project's like my Discord Bot Narlin.</p>
+<h1>Contact</h1>
+<p>Email me at <a href="mailto:contact@gizzy.is-a.dev">contact@gizzy.is-a.dev!</a></p>
