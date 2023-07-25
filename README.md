@@ -13,6 +13,7 @@ Since then, I've been learning to program and I now have my own home server wher
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<iframe width="420" height="345" src="http://www.youtube.com/embed/oHg5SJYRHA0?autoplay=1" frameborder="0" allowfullscreen></iframe>
 <h1>Project's</h1>
 <p>My biggest project at the moment is my portfolio called Gizzy's Den what I have been working on for almost over a year now but I do got other project's like my Discord Bot Narlin.</p>
 <h1>Contact</h1>
