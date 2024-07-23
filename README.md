@@ -1,5 +1,5 @@
 <h1 align="center">Hai, I'm Gizzy! 👋</h1>
-<p align="center">I write dumb code because why not</p>
+<p>I write dumb code because why not</p>
 <h1 align="center">Badges</h1>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzyUwU&layout=compact&theme=radical">
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <h1 align="center">Project's</h1>
-<p align="center">Fusion - Chat App</p>
-<p align="center">Protoshock Server</p>
+<p>Fusion - Chat App</p>
+<p>Protoshock Server</p>
 <h1 align="center">Contact</h1>
-<p align="center">Email me at <a href="mailto:contact@gizzy.is-a.dev">contact@gizzy.is-a.dev</a> or send me a message on Discord at notgizzyuwu!</p>
+<p>Email me at <a href="mailto:contact@gizzy.is-a.dev">contact@gizzy.is-a.dev</a> or send me a message on Discord at notgizzyuwu!</p>
