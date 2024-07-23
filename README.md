@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <h1 align="center">Project's</h1>
-<p>Fusion - Chat App and Protoshock Server</p>
+<p align="center">Fusion - Chat App</p>
+<p align="center">Protoshock Server</p>
 <h1 align="center">Contact</h1>
-<p>Email me at <a href="mailto:contact@gizzy.is-a.dev">contact@gizzy.is-a.dev</a> or send me a message on discord at notgizzyuwu!</p>
+<p align="center">Email me at <a href="mailto:contact@gizzy.is-a.dev">contact@gizzy.is-a.dev</a> or send me a message on Discord at notgizzyuwu!</p>
