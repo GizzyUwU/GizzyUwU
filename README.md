@@ -1,4 +1,4 @@
-<center><h1>Hai, I'm Gizzy! 👋</h1></center>
+<h1 align="center">Hai, I'm Gizzy! 👋</h1>
 <p>I write dumb code because why not</p>
 <h1>Badges</h1>
 <p>
