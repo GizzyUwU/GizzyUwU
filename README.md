@@ -1,6 +1,6 @@
 <h1 align="center">Hai, I'm Gizzy! 👋</h1>
-<p>I write dumb code because why not</p>
-<h1>Badges</h1>
+<p align="center">I write dumb code because why not</p>
+<h1 align="center">Badges</h1>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzyUwU&layout=compact&theme=radical">
 <br>
