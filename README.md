@@ -12,4 +12,4 @@
 <p><a href="https://github.com/GizzyUwU/openlink">Openlink</a></p>
 <p><a href="https://github.com/GizzyUwU/elt2ical">Elt2ICal</a></p>
 <h1 align="center">Contact</h1>
-<p>Email me at <a href="mailto:contact@gizzy.is-a.dev">me@gizzy.gay/a></p>
+<p>Email me at <a href="mailto:contact@gizzy.is-a.dev">me@gizzy.gay</a></p>
