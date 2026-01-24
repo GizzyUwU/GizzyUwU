@@ -4,13 +4,12 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizzyUwU&layout=compact&theme=radical">
 <br>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=680&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha"/>
 <h1 align="center">Project's</h1>
-<p>Fusion - Chat App</p>
-<p>Protoshock Server</p>
+<p><a href="https://github.com/GizzyUwU/logpheus">Logpheus</a></p>
+<p><a href="https://github.com/GizzyUwU/ha-vicinae">HA-Vicinae</a></p>
+<p><a href="https://github.com/GizzyUwU/suri">Suri</a></p>
+<p><a href="https://github.com/GizzyUwU/openlink">Openlink</a></p>
+<p><a href="https://github.com/GizzyUwU/elt2ical">Elt2ICal</a></p>
 <h1 align="center">Contact</h1>
-<p>Email me at <a href="mailto:contact@gizzy.is-a.dev">contact@gizzy.is-a.dev</a> or send me a message on Discord at notgizzyuwu!</p>
+<p>Email me at <a href="mailto:contact@gizzy.is-a.dev">me@gizzy.gay/a></p>
