@@ -6,10 +6,6 @@
   </a>
 </p>
 
-## Development Focus Areas
-- Web Development
-- Backend Development
-
 ## My Statistics
 <p align="center">
   <a href="https://github.com/gizzyuwu">
